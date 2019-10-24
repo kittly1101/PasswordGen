@@ -6,9 +6,23 @@ It, uh, generates passwords. Here:
 
 ```
 ./passwordgen
-password
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | -       | |
+  | |         | |
+  | |_________| |________________________
+  \=____________/                        )
+  / """"""""""" \                       /
+ / ::::::::::::: \                  =D-'
+(_________________)'
+
+Generated password:
 U(pGFkVC-RD2#i
 ```
 # WHAT'S NEXT?
 I am currently working to resolve all the issues I've filed. If you find any, please submit a pull request or file an issue and I'll........eventually get it. Maybe.
 
+# ASCII Art
+By Brian Macdonald, from [ASCII Art Archive](https://www.asciiart.eu/computers/computers)
